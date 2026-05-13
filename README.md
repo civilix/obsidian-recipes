@@ -16,3 +16,4 @@
 - 每道菜只保留一个主要烹饪方式。
 - 以后按食材推荐吃什么时，主要看 `主料标签`。
 - 详细用量写在正文，不把属性区堆得太满，方便手机查看。
+- Obsidian 配置里保留 `.obsidian/app.json`、`.obsidian/appearance.json`、`.obsidian/core-plugins.json`，忽略 `.obsidian/workspace.json` 这类设备视图状态文件。

@@ -1,0 +1,6 @@
+.DS_Store
+
+# Device- or session-specific Obsidian state
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/cache/
