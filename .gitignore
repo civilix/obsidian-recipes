@@ -2,5 +2,6 @@
 
 # Device- or session-specific Obsidian state
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
 .obsidian/workspaces.json
 .obsidian/cache/
